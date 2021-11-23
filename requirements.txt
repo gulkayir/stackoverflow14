@@ -7,3 +7,4 @@ django-phonenumber-field
 phonenumbers
 twilio
 djangorestframework-simplejwt
+drf-yasg
